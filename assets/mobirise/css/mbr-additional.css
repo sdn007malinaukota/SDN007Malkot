@@ -153,9 +153,9 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #ffa600 !important;
-  border-color: #ffa600 !important;
-  color: #ffffff !important;
+  background-color: #cee6f2 !important;
+  border-color: #cee6f2 !important;
+  color: #287399 !important;
   box-shadow: none;
 }
 .btn-secondary:hover,
@@ -163,15 +163,15 @@ body {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: inherit;
-  background-color: #ffb833 !important;
-  border-color: #ffb833 !important;
+  background-color: #f6fbfd !important;
+  border-color: #f6fbfd !important;
   box-shadow: none;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
-  color: #ffffff !important;
-  background-color: #ffb833 !important;
-  border-color: #ffb833 !important;
+  color: #287399 !important;
+  background-color: #f6fbfd !important;
+  border-color: #f6fbfd !important;
 }
 .btn-info,
 .btn-info:active {
@@ -329,23 +329,23 @@ body {
 .btn-secondary-outline,
 .btn-secondary-outline:active {
   background-color: transparent !important;
-  border-color: #ffa600;
-  color: #ffa600;
+  border-color: #cee6f2;
+  color: #cee6f2;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus,
 .btn-secondary-outline.active {
-  color: #a86e00 !important;
+  color: #89c3e0 !important;
   background-color: transparent !important;
-  border-color: #a86e00 !important;
+  border-color: #89c3e0 !important;
   box-shadow: none !important;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
-  color: #ffffff !important;
-  background-color: #ffa600 !important;
-  border-color: #ffa600 !important;
+  color: #287399 !important;
+  background-color: #cee6f2 !important;
+  border-color: #cee6f2 !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -477,7 +477,7 @@ body {
   color: #bf213e !important;
 }
 .text-secondary {
-  color: #ffa600 !important;
+  color: #cee6f2 !important;
 }
 .text-success {
   color: #bf213e !important;
@@ -505,7 +505,7 @@ a.text-primary.active {
 a.text-secondary:hover,
 a.text-secondary:focus,
 a.text-secondary.active {
-  color: #996400 !important;
+  color: #7dbddd !important;
 }
 a.text-success:hover,
 a.text-success:focus,
@@ -662,7 +662,7 @@ blockquote {
 .xdsoft_datetimepicker .xdsoft_calendar td:hover,
 .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div:hover {
   color: #000000 !important;
-  background: #ffa600 !important;
+  background: #cee6f2 !important;
   box-shadow: none !important;
 }
 .lazy-bg {
@@ -8380,7 +8380,7 @@ a {
 }
 .cid-ue3a9AjZZV {
   padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-bottom: 0rem;
   background-image: url("../../../assets/images/pngwing.com-salin-2000x2000.png");
 }
 .cid-ue3a9AjZZV .mbr-fallback-image.disabled {
@@ -8425,8 +8425,8 @@ a {
 }
 .cid-ue2iRoFlip {
   padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #cee6f2;
+  padding-bottom: 2rem;
+  background-image: url("../../../assets/images/pngwing.com-salin-2000x2000.png");
 }
 .cid-ue2iRoFlip .mbr-fallback-image.disabled {
   display: none;
@@ -8455,7 +8455,7 @@ a {
   content: "\e925";
   font-family: Moririse2 !important;
   position: absolute;
-  font-size: 32px;
+  font-size: 30px;
   left: 50%;
   top: 97%;
   color: #6592e6;
@@ -8500,56 +8500,6 @@ a {
 .cid-ue2iRoFlip .icon-title,
 .cid-ue2iRoFlip .item .icon-wrap {
   color: #000000;
-}
-.cid-ue3vVUTVW0 {
-  padding-top: 3rem;
-  padding-bottom: 2rem;
-  background-image: url("../../../assets/images/vecteezy-social-media-vector-illustration-doodles-5485651-1920x1440.jpg");
-}
-.cid-ue3vVUTVW0 .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-ue3vVUTVW0 .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-ue3vVUTVW0 .bg-facebook {
-  background: #1778f2;
-  color: #ffffff;
-}
-.cid-ue3vVUTVW0 .bg-facebook:hover {
-  background: #0b60cb;
-}
-.cid-ue3vVUTVW0 .bg-tiktok {
-  background: #000000;
-  color: #ffffff;
-}
-.cid-ue3vVUTVW0 .bg-tiktok:hover {
-  background: #000000;
-}
-.cid-ue3vVUTVW0 .iconfont-wrapper {
-  display: inline-block;
-  font-size: 32px;
-  border-radius: 50%;
-  width: 55px;
-  height: 55px;
-  line-height: 55px;
-  text-align: center;
-  transition: all 0.3s ease-in-out;
-}
-.cid-ue3vVUTVW0 [class^="socicon-"]:before,
-.cid-ue3vVUTVW0 [class*=" socicon-"]:before {
-  line-height: 55px;
-  padding: .6rem;
-}
-.cid-ue3vVUTVW0 .mbr-section-title,
-.cid-ue3vVUTVW0 .social-list {
-  color: #bf213e;
 }
 .cid-udTQh1FfIi {
   padding-top: 4rem;
